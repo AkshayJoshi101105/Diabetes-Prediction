@@ -1,2 +1,2 @@
 # Diabetes-Prediction
-using **svm** 
+using **SVM** (support vector machine) 
