@@ -1,2 +1,2 @@
 # Diabetes-Prediction
-svm model
+using **svm** 
